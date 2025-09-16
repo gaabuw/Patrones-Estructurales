@@ -20,7 +20,8 @@ Ejemplo: ArchivoProxy con permisos de usuario.
 
 Composite – Maneja objetos individuales y compuestos de manera uniforme.
 Ejemplo: ElementoMenu, Plato y Menu para menús de restaurante.
-> **Nota importante:**  
-> Repositorio de Github para el trabajo práctico solicitado de Patrones Creacionales 
+>    **Nota importante:**  
+> Repositorio de Github para el trabajo práctico solicitado de Patrones Creacionales  
 > Materia: Desarrollo de Software 3k10 - 2025  
 > Integrantes: Cecilia Calvo, Gabriel Villalobos, Laureano Rojas, Marcos del Bosco, Federica Benito
+
